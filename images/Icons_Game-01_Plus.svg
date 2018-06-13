@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" class="mainIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 175.5 175.5" style="enable-background:new 0 0 175.5 175.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#029789;}
+	.st1{clip-path:url(#SVGID_2_);fill:#00A79D;}
+	.st2{fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_4_);fill:#00A79D;}
+	.st4{clip-path:url(#SVGID_6_);fill:#00A79D;}
+	.st5{clip-path:url(#SVGID_8_);fill:#00A79D;}
+	.st6{clip-path:url(#SVGID_10_);fill:#00A79D;}
+	.st7{clip-path:url(#SVGID_12_);fill:#00A79D;}
+	.st8{clip-path:url(#SVGID_14_);fill:#00A79D;}
+	.st9{clip-path:url(#SVGID_16_);fill:#00A79D;}
+	.st10{clip-path:url(#SVGID_18_);fill:#00A79D;}
+	.st11{clip-path:url(#SVGID_20_);fill:#00A79D;}
+</style>
+<g id="Play">
+	<circle class="st0" cx="87.8" cy="87.8" r="87.8"/>
+	<g id="Background">
+		<defs>
+			<circle id="SVGID_1_" cx="87.8" cy="91.8" r="87.8"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<circle class="st1" cx="87.8" cy="84" r="87.8"/>
+	</g>
+	<g id="Icon">
+		<path class="st0" d="M56.7,52.4v78.7c0,4.7,5.1,7.6,9.1,5.2l64-37.7c3.9-2.3,4-7.9,0.2-10.3L66,47.3C62,44.7,56.7,47.6,56.7,52.4z
+			"/>
+		<path class="st2" d="M60.4,44.9v78.7c0,4.7,5.1,7.6,9.1,5.2l64-37.7c3.9-2.3,4-7.9,0.2-10.3l-64-40.9
+			C65.7,37.2,60.4,40.1,60.4,44.9z"/>
+	</g>
+</g>
+<g id="Pause">
+	<g id="BG">
+	</g>
+</g>
+<g id="Lives">
+	<g id="Bg">
+	</g>
+</g>
+<g id="Menu">
+	<g id="BG_1_">
+	</g>
+</g>
+<g id="Quit">
+	<g id="Icon_4_">
+	</g>
+</g>
+<g id="Sound">
+</g>
+<g id="Mute">
+</g>
+<g id="Plus">
+</g>
+<g id="Minus">
+</g>
+<g id="Alert">
+</g>
+</svg>

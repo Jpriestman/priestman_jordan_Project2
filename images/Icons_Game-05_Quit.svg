@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" class="mainIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 175.5 175.5" style="enable-background:new 0 0 175.5 175.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#029789;}
+	.st1{clip-path:url(#SVGID_2_);fill:#00A79D;}
+	.st2{fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_4_);fill:#00A79D;}
+	.st4{clip-path:url(#SVGID_6_);fill:#00A79D;}
+	.st5{clip-path:url(#SVGID_8_);fill:#00A79D;}
+	.st6{clip-path:url(#SVGID_10_);fill:#00A79D;}
+	.st7{clip-path:url(#SVGID_12_);fill:#00A79D;}
+	.st8{clip-path:url(#SVGID_14_);fill:#00A79D;}
+	.st9{clip-path:url(#SVGID_16_);fill:#00A79D;}
+	.st10{clip-path:url(#SVGID_18_);fill:#00A79D;}
+	.st11{clip-path:url(#SVGID_20_);fill:#00A79D;}
+</style>
+<g id="Play">
+	<g id="Icon">
+	</g>
+</g>
+<g id="Pause">
+	<g id="BG">
+	</g>
+</g>
+<g id="Lives">
+	<g id="Bg">
+	</g>
+</g>
+<g id="Menu">
+	<g id="BG_1_">
+	</g>
+</g>
+<g id="Quit">
+	<g>
+		<circle class="st0" cx="87.8" cy="87.8" r="87.8"/>
+		<g>
+			<defs>
+				<circle id="SVGID_9_" cx="87.8" cy="91.8" r="87.8"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+			</clipPath>
+			<circle class="st1" cx="87.8" cy="84" r="87.8"/>
+		</g>
+		<g>
+			<path class="st0" d="M115.7,76.4l-43.3,43.3c-3.7,3.7-9.7,3.7-13.4,0l-3.2-3.2c-3.7-3.7-3.7-9.7,0-13.4l43.3-43.3
+				c3.7-3.7,9.7-3.7,13.4,0l3.2,3.2C119.4,66.7,119.4,72.7,115.7,76.4z"/>
+			<path class="st0" d="M72.4,59.8l43.3,43.3c3.7,3.7,3.7,9.7,0,13.4l-3.2,3.2c-3.7,3.7-9.7,3.7-13.4,0L55.8,76.4
+				c-3.7-3.7-3.7-9.7,0-13.4l3.2-3.2C62.7,56.1,68.7,56.1,72.4,59.8z"/>
+		</g>
+		<g>
+			<path class="st2" d="M117.7,74.4l-43.3,43.3c-3.7,3.7-9.7,3.7-13.4,0l-3.2-3.2c-3.7-3.7-3.7-9.7,0-13.4l43.3-43.3
+				c3.7-3.7,9.7-3.7,13.4,0l3.2,3.2C121.4,64.7,121.4,70.7,117.7,74.4z"/>
+			<path class="st2" d="M74.4,57.8l43.3,43.3c3.7,3.7,3.7,9.7,0,13.4l-3.2,3.2c-3.7,3.7-9.7,3.7-13.4,0L57.8,74.4
+				c-3.7-3.7-3.7-9.7,0-13.4l3.2-3.2C64.7,54.1,70.7,54.1,74.4,57.8z"/>
+		</g>
+	</g>
+	<g id="Icon_4_">
+	</g>
+</g>
+<g id="Sound">
+</g>
+<g id="Mute">
+</g>
+<g id="Plus">
+</g>
+<g id="Minus">
+</g>
+<g id="Alert">
+</g>
+</svg>

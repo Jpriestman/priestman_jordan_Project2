@@ -1,0 +1,128 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+.clearfix:after{
+	content: " ";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+body {
+	max-width: 960px;
+	margin: 0 auto;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 14px;
+}
+
+#wrapper {
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+h1 {
+	font-size:20px;
+	margin-top:10px;
+	margin-bottom: 7px;
+}
+
+h2 {
+	font-size: 40px;
+	margin: auto;
+}
+
+.container {
+	margin-top: 45px;
+	overflow: hidden;
+}
+
+
+#play {
+	float:left;
+	margin-left: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+.icons:hover {
+	background-color: cadetblue;
+}
+
+
+
+#pause {
+	float:right;
+	margin-right: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+#life {
+	float:left;
+	margin-left: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+#menu {
+	float:right;
+	margin-right: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+#quit {
+	float:left;
+	margin-left: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+#volume {
+	float:right;
+	margin-right: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+#mute {
+	float:left;
+	margin-left: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+#plus {
+	float:right;
+	margin-right: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+#minus {
+	float:left;
+	margin-left: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+#alert {
+	float:right;
+	margin-right: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
